@@ -1,7 +1,8 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-######Purpose
+#####################
+PURPOSE
 This is time tracker
 
 Time tracker
